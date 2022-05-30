@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalProject", "HospitalProject\HospitalProject.csproj", "{CF82B174-591E-4BD2-8ECA-53818228EA78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateHospitalLibrary", "NHibernateHospitalLibrary\NHibernateHospitalLibrary.csproj", "{9BBB31C6-DB73-4FA5-A838-7F59E77C1FE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF82B174-591E-4BD2-8ECA-53818228EA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF82B174-591E-4BD2-8ECA-53818228EA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF82B174-591E-4BD2-8ECA-53818228EA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF82B174-591E-4BD2-8ECA-53818228EA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BBB31C6-DB73-4FA5-A838-7F59E77C1FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBB31C6-DB73-4FA5-A838-7F59E77C1FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBB31C6-DB73-4FA5-A838-7F59E77C1FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBB31C6-DB73-4FA5-A838-7F59E77C1FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7C304C2-5427-4E5B-83A0-D6917C492516}
+	EndGlobalSection
+EndGlobal
